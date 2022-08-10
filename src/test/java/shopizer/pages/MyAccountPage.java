@@ -15,9 +15,10 @@ public class MyAccountPage extends CommonMethods implements Page {
     public void deleteMyAccount(){
         scrollToTheElement(accountManagementSection);
         accountManagementSection.click();
-        deleteAccountButton = driver.findElement(By.xpath("//div[@class='myaccount-area pb-80 pt-100']//div[@class='row']//div[@class='collapse show']//button[@type='button']"));
+        deleteAccountButton = driver.findElement(By.xpath("//div[@class='myaccount-area pb-80 pt-100']" +
+                "//div[@class='row']//div[@class='collapse show']//button[@type='button']"));
         deleteAccountButton.click();
-        confirmationButton = driver.findElement(By.xpath("//div[5]/div/div/p/a[2]"));
+        confirmationButton = driver.findElement(By.xpath("//div[5]/div/div/p/a[.= 'Yes, delete it!']"));
         confirmationButton.click();
 
     }

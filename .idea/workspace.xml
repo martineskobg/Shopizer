@@ -5,33 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0d510d8-a602-4c5b-9df0-595865bb30bb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/shopizer/config/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/shopizer/config/CommonMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/shopizer/pages/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/shopizer/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/shopizer/pages/MyAccountPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/shopizer/pages/Page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/shopizer/pages/RegistrationPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/shopizer/runner/TestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/shopizer/step/definitions/NegativeLoginSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/shopizer/step/definitions/NegativeRegistrationSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/shopizer/step/definitions/SuccessfulLoginSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/shopizer/step/definitions/SuccessfulRegistrationSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/shopizer/tests/RegistrationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/shopizer/utilities/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/NegativeLogin.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/NegativeRegistration.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/SuccessfulLogin.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/SuccessfulRegistration.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/shopizer/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/shopizer/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/shopizer/pages/MyAccountPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/shopizer/pages/MyAccountPage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,15 +35,15 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Martin/Documents/Training Projects/SeleniumRemote"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Martin/Documents/Training Projects/SeleniumRemote&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Martin\Documents\Training Projects\SeleniumRemote" />
@@ -79,7 +55,7 @@
       <recent name="shopizer.runner" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestRunner">
+  <component name="RunManager" selected="Cucumber Java.Feature: SuccessfulRegistration">
     <configuration name="Feature: NegativeLogin" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/NegativeLogin.feature" />
@@ -179,11 +155,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber Java.Feature: SuccessfulRegistration" />
         <item itemvalue="JUnit.TestRunner" />
         <item itemvalue="Cucumber Java.Feature: NegativeRegistration" />
         <item itemvalue="Cucumber Java.Feature: SuccessfulLogin" />
         <item itemvalue="Cucumber Java.Feature: NegativeLogin" />
-        <item itemvalue="Cucumber Java.Feature: SuccessfulRegistration" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +178,9 @@
       <workItem from="1659600168689" duration="4076000" />
       <workItem from="1659609469731" duration="40819000" />
       <workItem from="1659946636386" duration="5803000" />
-      <workItem from="1659954098140" duration="32328000" />
+      <workItem from="1659954098140" duration="33837000" />
+      <workItem from="1660118911199" duration="1084000" />
+      <workItem from="1660126665914" duration="1773000" />
     </task>
     <servers />
   </component>
@@ -275,11 +253,6 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/shopizer/pages/RegistrationPage.java</url>
-          <line>43</line>
-          <option name="timeStamp" value="65" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/shopizer/pages/RegistrationPage.java</url>
           <line>38</line>
           <option name="timeStamp" value="66" />
         </line-breakpoint>
@@ -287,6 +260,21 @@
           <url>file://$PROJECT_DIR$/src/test/java/shopizer/step/definitions/NegativeRegistrationSteps.java</url>
           <line>24</line>
           <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/shopizer/step/definitions/SuccessfulRegistrationSteps.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/shopizer/pages/RegistrationPage.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/shopizer/pages/HomePage.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="70" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
